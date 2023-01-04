@@ -1,0 +1,67 @@
+{
+  "restaurants": [
+    {
+      "name": "La Crema",
+      "dishes": [
+        {
+          "name": "Taco al Pastor",
+          "description": "A spicy taco filled with marinated pork and grilled pineapple."
+        },
+        {
+          "name": "Mole Poblano",
+          "description": "A traditional Mexican sauce made with chiles, nuts, and spices, served over chicken or beef."
+        },
+        {
+          "name": "Tostadas de Tinga",
+          "description": "Crispy tostadas topped with shredded chicken in a chipotle tomato sauce."
+        },
+        {
+          "name": "Elote Asado",
+          "description": "Grilled corn on the cob slathered in mayonnaise, cotija cheese, and chili powder."
+        }
+      ]
+    },
+    {
+      "name": "The Green Table",
+      "dishes": [
+        {
+          "name": "Wild Mushroom Risotto",
+          "description": "A creamy risotto made with a variety of wild mushrooms and parmesan cheese."
+        },
+        {
+          "name": "Grilled Asparagus Salad",
+          "description": "Grilled asparagus, mixed greens, cherry tomatoes, and goat cheese, tossed in a lemon vinaigrette."
+        },
+        {
+          "name": "Pan-Seared Salmon",
+          "description": "Pan-seared salmon served with a dill and caper butter sauce and roasted vegetables."
+        },
+        {
+          "name": "Roasted Eggplant Pasta",
+          "description": "Whole wheat pasta tossed with roasted eggplant, sun-dried tomatoes, and a basil-pistachio pesto."
+        }
+      ]
+    },
+    {
+      "name": "Sushi House",
+      "dishes": [
+        {
+          "name": "California Roll",
+          "description": "A classic sushi roll filled with imitation crab, avocado, and cucumber."
+        },
+        {
+          "name": "Tiger Roll",
+          "description": "A sushi roll filled with eel and topped with avocado and eel sauce."
+        },
+        {
+          "name": "Sashimi Platter",
+          "description": "A selection of thinly sliced raw fish, served with soy sauce and wasabi."
+        },
+        {
+          "name": "Gyoza",
+          "description": "Pan-fried dumplings filled with meat or vegetables."
+        }
+      ]
+    }
+  ]
+}
